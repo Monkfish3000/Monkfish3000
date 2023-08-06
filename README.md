@@ -5,7 +5,7 @@ and I'm working as a Software Engineer in a global EdTech. company.
 interested in them very hard work sometimes. 
 
 - 🌱 I’m currently learning many different things but my main focus tends to be FrontEnd technologies - React, Svelte etc. I'm always
-trying to hone my Javascript skills and the learn the latest library.
+trying to hone my Javascript and Typescript skills and the learn the latest library.
 
 
 <!---
